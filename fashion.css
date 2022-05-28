@@ -99,7 +99,7 @@ header > h5 > img{
     border-radius: 50%;
     width: 50px;
     position: absolute;
-    margin-top: 58%;
+    margin-top: 12%;
     
     display: inline-flex; 
 }
@@ -117,7 +117,7 @@ header > h5 > img{
     border-radius: 50%;
     width: 50px;
     position: absolute;
-    margin-top: 80%;
+    margin-top: 35%;
     
     display: inline-flex; 
 }
@@ -128,7 +128,24 @@ header > h5 > img{
 .items3{
      margin-left: 2%;    
 }
-
+.categories4{
+    background-size: 100%; 
+    height: 50px;
+    
+    border-radius: 50%;
+    width: 50px;
+    position: absolute;
+    margin-top: 59%;
+    
+    display: inline-flex; 
+}
+.list4{
+    display: inline-flex;
+    
+}
+.items4{
+     margin-left: 2%;    
+}
 .deals > h3{
     margin-top: 30%;
     position: absolute;
@@ -196,7 +213,7 @@ ul{
     background-color: #24262b;
     padding: 70px 0;
     position: absolute;
-    margin-top: 97%;
+    margin-top: 77%;
     display: block;
     width: 100%;    
 }
